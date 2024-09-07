@@ -1,0 +1,185 @@
+[
+  {
+    "questionNo": "Q11.",
+    "question": "Which word doesn't rhyme with the others?",
+    
+    "optionsImages": [
+      "./images/20.jpg",
+      "./images/21.jpg",
+      "./images/down.jpg",
+      "./images/12.jpg"
+    ],
+    "correct": 3,
+    "optionsAudio": [
+      "./sound/town.mp3",
+      "./sound/crown.mp3",
+      "./sound/down.mp3",
+      "./sound/cow.mp3"
+    ]
+  },
+  {
+    "questionNo": "Q12.",
+    "question": "Which word has the \"oi\" sound? ",
+    
+    "optionsImages": [
+      "./images/1.jpg",
+      "./images/2.jpg",
+      "./images/3.jpg",
+      "./images/4.jpg"
+    ],
+    "correct": 2,
+    "optionsAudio": [
+      "./sound/cat.mp3",
+      "./sound/dog.mp3",
+      "./sound/coin.mp3",
+      "./sound/sun.mp3"
+    ]
+  },
+  {
+    "questionNo": "Q13.",
+    "question": "Which word rhymes with \"house\"?",
+    
+    "optionsImages": [
+      "./images/5.jpg",
+      "./images/1.jpg",
+      "./images/2.jpg",
+      "./images/6.jpg"
+    ],
+    "correct":0,
+    "optionsAudio": [
+      "./sound/mouse.mp3",
+      "./sound/cat.mp3",
+      "./sound/dog.mp3",
+      "./sound/fish.mp3"
+    ]
+  },
+  {
+    "questionNo": "Q14.",
+    "question": "Find the odd one out?",
+    
+    "optionsImages": [
+      "./images/7.jpg",
+      "./images/8.jpg",
+      "./images/9.jpg",
+      "./images/10.jpg"
+    ],
+    "correct": 3,
+    "optionsAudio": [
+      "./sound/joy.mp3",
+      "./sound/boy.mp3",
+      "./sound/toy.mp3",
+      "./sound/cow.mp3"
+    ]
+  },
+  {
+    "questionNo": "Q15.",
+    "question": "Which word has the same sound as \"joy\"?",
+    
+    "optionsImages": [
+      "./images/11.jpg",
+      "./images/12.jpg",
+      "./images/13.jpg",
+      "./images/14.jpg"
+    ],
+    "correct": 0,
+    "optionsAudio": [
+      "./sound/boy.mp3",
+      "./sound/cow.mp3",
+      "./sound/mouse.mp3",
+      "./sound/coin.mp3"
+    ]
+  },
+  {
+    "questionNo": "Q16.",
+    "question": "Which word has a different sound?  ",
+    
+    "optionsImages": [
+      "./images/15.jpg",
+      "./images/16.jpg",
+      "./images/17.jpg",
+      "./images/18.jpg"
+    ],
+    "correct": 3,
+    "optionsAudio": [
+      "./sound/soil.mp3",
+      "./sound/boil.mp3",
+      "./sound/coin.mp3",
+      "./sound/cloud.mp3"
+    ]
+  },
+  {
+    "questionNo": "Q17.",
+    "question": "Which word has the \"ou\" sound?",
+    
+    "optionsImages": [
+      "./images/joy.jpg",
+      "./images/toy.jpg",
+      "./images/11.jpg",
+      "./images/19.jpg"
+    ],
+    "correct": 3,
+    "optionsAudio": [
+      "./sound/joy.mp3",
+      "./sound/toy.mp3",
+      "./sound/boy.mp3",
+      "./sound/loud.mp3"
+    ]
+  }
+  ,
+  {
+    "questionNo": "Q18.",
+    "question": "Which word has a different diphthong sound?",
+    
+    "optionsImages": [
+      "./images/20.jpg",
+      "./images/21.jpg",
+      "./images/22.jpg",
+      "./images/23.jpg"
+    ],
+    "correct": 3,
+    "optionsAudio": [
+      "./sound/town.mp3",
+      "./sound/crown.mp3",
+      "./sound/frown.mp3",
+      "./sound/loud.mp3"
+    ]
+  },
+  {
+    "questionNo": "Q19.",
+    "question": "Which word rhymes with \"soil\"?",
+    
+    "optionsImages": [
+      "./images/16.jpg",
+      "./images/toy.jpg",
+      "./images/12.jpg",
+      "./images/24.jpg"
+    ],
+    "correct": 0,
+    "optionsAudio": [
+      "./sound/boil.mp3",
+      "./sound/toy.mp3",
+      "./sound/cow.mp3",
+      "./sound/house.mp3"
+    ]
+  },
+  {
+    "questionNo": "Q20.",
+    "question": "What's the missing word:<br> \"The ___ is round\"?",
+    
+    "optionsImages": [
+      "./images/13.jpg",
+      "./images/11.jpg",
+      "./images/17.jpg",
+      "./images/24.jpg"
+    ],
+    "correct": 2,
+    "optionsAudio": [
+      "./sound/mouse.mp3",
+      "./sound/boy.mp3",
+      "./sound/coin.mp3",
+      "./sound/house.mp3"
+    ]
+  }
+      
+  ]
+  

@@ -1,0 +1,253 @@
+[
+    {
+      "questionNo": "Q1.",
+      "question": "What sound do you hear in the word?",
+      "Q_sound":"./sound/toy.mp3",
+      "options": [
+        {
+          "text": "oi",
+          "audio": ""
+        },
+        {
+          "text": "oy",
+          "audio": ""
+        },
+        {
+          "text": "ou",
+          "audio": ""
+        },
+        {
+          "text": "ow",
+          "audio": ""
+        }
+      ],
+      "correct": 1,
+      "secondImg":"./images/toy1.jpg"
+    },
+    {
+        "questionNo": "Q2.",
+        "question": "What's the missing letter in \"c__w\"? ",
+        "Q_sound":"./sound/cow.mp3",
+        "options": [
+          {
+            "text": "i",
+            "audio": ""
+          },
+          {
+            "text": "u",
+            "audio": ""
+          },
+          {
+            "text": "a",
+            "audio": ""
+          },
+          {
+            "text": "o",
+            "audio": ""
+          }
+        ],
+        "correct": 3,
+        "secondImg":"./images/cow.jpg"
+      },
+      {
+        "questionNo": "Q3. ",
+        "question": "Hear the word: Find the diphthong?",
+        "Q_sound":"./sound/loud.mp3",
+        "options": [
+          {
+            "text": "oi",
+            "audio": ""
+          },
+          {
+            "text": "oy",
+            "audio": ""
+          },
+          {
+            "text": "ou",
+            "audio": ""
+          },
+          {
+            "text": "ow",
+            "audio": ""
+          }
+        ],
+        "correct": 2,
+        "secondImg":"./images/loud.jpg"
+      },
+      {
+        "questionNo": "Q4.",
+        "question": "What diphthong sound do you hear? ",
+        "Q_sound":"./sound/crown.mp3",
+        "options": [
+          {
+            "text": "oi",
+            "audio": ""
+          },
+          {
+            "text": "oy",
+            "audio": ""
+          },{
+            "text": "ou",
+            "audio": ""
+          },
+          {
+            "text": "ow",
+            "audio": ""
+          }
+        ],
+        "correct": 3,
+        "secondImg":"./images/crown.jpg"
+      },{
+        "questionNo": "Q5.",
+        "question": "Hear the word: Find the diphthong?",
+        "Q_sound":"./sound/soil.mp3",
+        "options": [
+          {
+            "text": "oi",
+            "audio": ""
+          },
+          {
+            "text": "oy",
+            "audio": ""
+          },
+          {
+            "text": "ou",
+            "audio": ""
+          },
+          {
+            "text": "ow",
+            "audio": ""
+          }
+        ],
+        "correct": 0,
+        "secondImg":"./images/soil.jpg"
+      },
+      
+      {
+        "questionNo": "Q6.",
+        "question": "Hear the word: Find the diphthong?",
+        "Q_sound":"./sound/house.mp3",
+        "options": [
+          {
+            "text": "ou",
+            "audio": ""
+          },
+          {
+            "text": "oi",
+            "audio": ""
+          },
+          {
+            "text": "oy",
+            "audio": ""
+          },
+          {
+            "text": "None of the above",
+            "audio": ""
+          }
+        ],
+        "correct": 0,
+        "secondImg":"./images/house.jpg"
+      },
+      {
+        "questionNo": "Q7.",
+        "question": "Hear the word: Find the diphthong?",
+        "Q_sound":"./sound/enjoy.mp3",
+        "options": [
+          {
+            "text": "oi",
+            "audio": ""
+          },
+          {
+            "text": "oy",
+            "audio": ""
+          },
+          {
+            "text": "ou",
+            "audio": ""
+          },
+          {
+            "text": "ow",
+            "audio": ""
+          }
+        ],
+        "correct": 1,
+        "secondImg":"./images/enjoy.jpg"
+      },
+      {
+        "questionNo": "Q8.",
+        "question": "Hear the word: Find the diphthong?",
+        "Q_sound":"./sound/mouth.mp3",
+        "options": [
+          {
+            "text": "oi",
+            "audio": ""
+          },
+          {
+            "text": "oy",
+            "audio": ""
+          },
+          {
+            "text": "ou",
+            "audio": ""
+          },
+          {
+            "text": "ow",
+            "audio": ""
+          }
+        ],
+        "correct": 2,
+        "secondImg":"./images/mouth.jpg"
+      },
+      {
+        "questionNo": "Q9.",
+        "question": "What's the correct spelling:<br> \"boy with a t__\"? ",
+        "Q_sound":"./sound/toy.mp3",
+        "options": [
+          {
+            "text": "toi",
+            "audio": ""
+          },
+          {
+            "text": "toy",
+            "audio": ""
+          },
+          {
+            "text": "tou",
+            "audio": ""
+          },
+          {
+            "text": "tow",
+            "audio": ""
+          }
+        ],
+        "correct": 1,
+        "secondImg":"./images/toy1.jpg"
+      },
+      {
+        "questionNo": "Q10.",
+        "question": " What's the missing word:<br> \"The ___ goes moo\"?",
+        "Q_sound":"./sound/cow.mp3",
+        "options": [
+          {
+            "text": "Boy",
+            "audio": ""
+          },
+          {
+            "text": "Toy",
+            "audio": ""
+          },
+          {
+            "text": "Cow",
+            "audio": ""
+          },
+          {
+            "text": "House",
+            "audio": ""
+          }
+          
+        ],
+        "correct": 2,
+        "secondImg":"./images/cow.jpg"
+      }
+  ]
+  
